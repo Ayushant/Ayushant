@@ -117,7 +117,6 @@ I'm a **Software Engineer** specializing in building **scalable AI-powered produ
 - **Web Scalability** - Load balancing, caching strategies, CDN optimization
 - **API Design** - RESTful, GraphQL, WebSocket real-time communication
 
----
 
 
 
@@ -134,7 +133,6 @@ I'm a **Software Engineer** specializing in building **scalable AI-powered produ
   <img src="https://github-profile-trophy.vercel.app/?username=ayushant&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </p> -->
 
----
 
 ## 🌟 What Sets My Work Apart
 
