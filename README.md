@@ -118,23 +118,6 @@ I'm a **Software Engineer** specializing in building **scalable AI-powered produ
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&layout=compact&text_color=38bdae" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushant&theme=tokyonight&hide_border=false&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushant&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🌟 What Sets My Work Apart
 
 - ✅ **Production-First Mindset** - Reliability over rapid prototyping
@@ -150,7 +133,7 @@ I'm a **Software Engineer** specializing in building **scalable AI-powered produ
 <a href="https://www.linkedin.com/in/ayushant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
 <a href="https://instagram.com/mr.ayushant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/ayushant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
-<a href="mailto:theayushant@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40"/></a>
+<a href="/cdn-cgi/l/email-protection#72061a17130b07011a131c0632151f131b1e5c111d1f"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40"/></a>
 </p>
 
 ---
@@ -168,5 +151,4 @@ I'm actively seeking opportunities to contribute to **AI automation systems**, *
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/ayushant">ayushant</a> - Building the future of AI, one agent at a time</i>
-</p>
+  <i>⭐️ From <a href="https://github.com/ayushant">ayushant</a> - Building the
