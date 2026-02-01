@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushant Khandekar</h1>
 <h3 align="center">Software Engineer | AI Product Builder | Full-Stack & Mobile Developer</h3>
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ayushant&label=Profile%20views&color=0e75b6&style=flat" alt="ayushant" /> 
 </p>
@@ -117,22 +116,24 @@ I'm a **Software Engineer** specializing in building **scalable AI-powered produ
 - **Web Scalability** - Load balancing, caching strategies, CDN optimization
 - **API Design** - RESTful, GraphQL, WebSocket real-time communication
 
+---
 
+## 📈 GitHub Stats
 
-
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ayushant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&layout=compact&text_color=38bdae" alt="Top Languages" height="180"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushant&theme=tokyonight&hide_border=false&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3" alt="GitHub Streak"/>
-</p> --> -->
+</p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushant&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</p> -->
+</p>
 
+---
 
 ## 🌟 What Sets My Work Apart
 
