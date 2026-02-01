@@ -151,4 +151,4 @@ I'm actively seeking opportunities to contribute to **AI automation systems**, *
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/ayushant">ayushant</a> - Building the
+  <i> From <a href="https://github.com/ayushant">ayushant</a> 
